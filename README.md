@@ -182,7 +182,6 @@ This project is open source and available under the MIT License.
 
 ## 🙏 Credits
 
-- Initial UI scaffolding generated with [Magic Patterns](https://magicpatterns.com)
 - Built with love for coin collectors everywhere 🪙
 
 ## 📧 Support
